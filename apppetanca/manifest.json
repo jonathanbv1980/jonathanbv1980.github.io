@@ -1,0 +1,21 @@
+{
+  "name": "Gestor de Torneos de Petanca",
+  "short_name": "Petanca Torneos",
+  "description": "Una aplicación web para crear, gestionar y seguir torneos de petanca. Incluye generación automática de partidos, escaneo de hojas de resultados con IA usando Gemini, persistencia de datos y exportación a CSV.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#0055A4",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

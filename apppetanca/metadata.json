@@ -1,0 +1,7 @@
+{
+  "name": "PETANQUETORNEIGJBV",
+  "description": "Una aplicación web para crear, gestionar y seguir torneos de petanca. Incluye generación automática de partidos, escaneo de hojas de resultados con IA usando Gemini, persistencia de datos y exportación a CSV.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
